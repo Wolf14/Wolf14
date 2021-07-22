@@ -3,7 +3,7 @@ I'm Cecil, currently a sophomore at Indian Institute of Technology, Madras
 
 I'm currently working on Inverse Kinematics in Robotics
 
-In my free time I also try to learn about Audio programming
+In my free time I also try to learn about Audio programming(latest exploit, converting the proprietary csr format to midi)
 
 When very bored, I play the piano
 
