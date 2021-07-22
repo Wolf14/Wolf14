@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Cecil, currently a sophomore at Indian Institute of Technology, Madras
-I generally like to get my head in everything technical.
-I play the piano when I feel bored
+>I'm Cecil, currently a sophomore at Indian Institute of Technology, Madras
+>I try to automate stuff, I dont like to do
+>I play the piano when I feel bored
 
 <!--
 **Wolf14/Wolf14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
