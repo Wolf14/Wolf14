@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 I'm Cecil, currently a sophomore at Indian Institute of Technology, Madras
 
 I'm currently working on Inverse Kinematics in Robotics
